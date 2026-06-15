@@ -221,4 +221,4 @@ It reads data from `TripLog` and `Fleet` without owning or copying them. Const r
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+ISC
