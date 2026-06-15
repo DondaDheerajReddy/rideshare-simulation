@@ -1,0 +1,19 @@
+========================================
+       SIMULATION ANALYTICS REPORT      
+========================================
+Total Revenue  : $352.82
+Average Fare   : $23.52
+Highest Fare   : $58.50
+Lowest Fare    : $6.00
+Total Trips    : 15
+Standard rides : 7
+Shared rides   : 2
+Deliveries     : 2
+Premium rides  : 4
+
+--- Driver Leaderboard ---
+#1 Driver #2 | Suresh Nair | Trips: 5 | Earnings: $108.21 | Avg Fare: $21.64 | Avg Rating: 4.50
+#2 Driver #3 | Priya Singh | Trips: 5 | Earnings: $104.44 | Avg Fare: $20.89 | Avg Rating: 4.50
+#3 Driver #1 | Ravi Kumar | Trips: 2 | Earnings: $80.70 | Avg Fare: $40.35 | Avg Rating: 4.50
+#4 Driver #4 | Amit Desai | Trips: 3 | Earnings: $59.47 | Avg Fare: $19.82 | Avg Rating: 4.50
+========================================

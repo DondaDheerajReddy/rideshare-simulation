@@ -1,0 +1,10 @@
+[Sun Jun 14 18:09:04 2026] [INFO] Simulation started
+[Sun Jun 14 18:09:04 2026] [INFO] Simulation complete. Trips: 15
+[Sun Jun 14 22:16:10 2026] [INFO] Simulation started
+[Sun Jun 14 22:16:10 2026] [INFO] Simulation complete. Trips: 15
+[Sun Jun 14 22:16:10 2026] [INFO] Analytics report saved.
+[Sun Jun 14 22:29:03 2026] [INFO ] Logger initialized.
+[Sun Jun 14 22:29:03 2026] [INFO ] Simulation starting.
+[Sun Jun 14 22:29:03 2026] [INFO ] Simulation complete. Trips: 15
+[Sun Jun 14 22:29:03 2026] [INFO ] Analytics report saved to data/report.txt
+[Sun Jun 14 22:29:03 2026] [INFO ] Logger closing.

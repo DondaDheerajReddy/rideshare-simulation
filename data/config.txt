@@ -1,0 +1,11 @@
+# Rideshare Simulation Config
+max_ticks           = 15
+map_size            = 10
+requests_per_tick   = 2
+max_drivers         = 10
+base_fare_rate      = 2
+surge_multiplier    = 1.5
+delivery_weight_rate= 1.5
+fleet_file          = data/fleet.csv
+trip_log_file       = data/triplog.csv
+log_file            = data/simulation.log
